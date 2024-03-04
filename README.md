@@ -9,4 +9,4 @@ git branch -r
 [git fetch repo2]
 git rebase origin/head
 git rebase --continue
-git push origin main <branch-name>
+git push origin main <branch-name>/head
